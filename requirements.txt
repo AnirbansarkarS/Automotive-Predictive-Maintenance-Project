@@ -4,8 +4,9 @@ scikit-learn
 matplotlib
 plotly
 streamlit
-flask
 reportlab
 joblib
 langchain
 crewai
+fastapi
+uvicorn
